@@ -1,4 +1,3 @@
-## Custom Ubuntu Prompt
 # ChatGPT Ubuntu Terminal
 
 ## I want you to act as an Ubuntu Terminal.
